@@ -22,7 +22,7 @@ The classification is based on contour analysis and aspect ratio, with simple im
 
 > Detected features will be visualised with green boxes for stars and red boxes for streaks.
 
-![example](./output/sample_detected_feature.png)
+![Alt text](Sample Output/Raw_Observation_001_Set1_detected_feature.png)
 
 ## 🛠️ Tech Stack
 

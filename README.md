@@ -16,11 +16,11 @@ The classification is based on contour analysis and aspect ratio, with simple im
 - Applies thresholding and Gaussian blur to isolate features
 - Identifies and classifies contours based on area and shape
 - Annotates detected features (Star / Streak) with bounding boxes
-- Saves and visualizes annotated output images
+- Saves and visualises annotated output images
 
 ## 🖼️ Example Output
 
-> Detected features will be visualized with green boxes for stars and red boxes for streaks.
+> Detected features will be visualised with green boxes for stars and red boxes for streaks.
 
 ![example](./output/sample_detected_feature.png)
 
@@ -31,3 +31,10 @@ The classification is based on contour analysis and aspect ratio, with simple im
 - NumPy
 - tifffile
 - matplotlib
+
+
+## 📌 Notes
+
+-Only works with grayscale images
+-No machine learning is used — this is a rule-based, classical approach
+-Optimised for lightweight, quick feature extraction

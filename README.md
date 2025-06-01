@@ -35,6 +35,6 @@ The classification is based on contour analysis and aspect ratio, with simple im
 
 ## 📌 Notes
 
--Only works with grayscale images
--No machine learning is used — this is a rule-based, classical approach
--Optimised for lightweight, quick feature extraction
+- Only works with grayscale images
+- No machine learning is used — this is a rule-based, classical approach
+- Optimised for lightweight, quick feature extraction
